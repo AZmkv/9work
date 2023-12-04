@@ -1,0 +1,14 @@
+C:\Flowers\NewFlower\SecondTask\bin\Debug\net6.0\SecondTask.exe
+C:\Flowers\NewFlower\SecondTask\bin\Debug\net6.0\SecondTask.deps.json
+C:\Flowers\NewFlower\SecondTask\bin\Debug\net6.0\SecondTask.runtimeconfig.json
+C:\Flowers\NewFlower\SecondTask\bin\Debug\net6.0\SecondTask.dll
+C:\Flowers\NewFlower\SecondTask\bin\Debug\net6.0\SecondTask.pdb
+C:\Flowers\NewFlower\SecondTask\obj\Debug\net6.0\SecondTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Flowers\NewFlower\SecondTask\obj\Debug\net6.0\SecondTask.AssemblyInfoInputs.cache
+C:\Flowers\NewFlower\SecondTask\obj\Debug\net6.0\SecondTask.AssemblyInfo.cs
+C:\Flowers\NewFlower\SecondTask\obj\Debug\net6.0\SecondTask.csproj.CoreCompileInputs.cache
+C:\Flowers\NewFlower\SecondTask\obj\Debug\net6.0\SecondTask.dll
+C:\Flowers\NewFlower\SecondTask\obj\Debug\net6.0\refint\SecondTask.dll
+C:\Flowers\NewFlower\SecondTask\obj\Debug\net6.0\SecondTask.pdb
+C:\Flowers\NewFlower\SecondTask\obj\Debug\net6.0\SecondTask.genruntimeconfig.cache
+C:\Flowers\NewFlower\SecondTask\obj\Debug\net6.0\ref\SecondTask.dll

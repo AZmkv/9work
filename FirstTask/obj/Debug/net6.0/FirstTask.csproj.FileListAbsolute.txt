@@ -1,0 +1,14 @@
+C:\Flowers\NewFlower\FirstTask\bin\Debug\net6.0\FirstTask.exe
+C:\Flowers\NewFlower\FirstTask\bin\Debug\net6.0\FirstTask.deps.json
+C:\Flowers\NewFlower\FirstTask\bin\Debug\net6.0\FirstTask.runtimeconfig.json
+C:\Flowers\NewFlower\FirstTask\bin\Debug\net6.0\FirstTask.dll
+C:\Flowers\NewFlower\FirstTask\bin\Debug\net6.0\FirstTask.pdb
+C:\Flowers\NewFlower\FirstTask\obj\Debug\net6.0\FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Flowers\NewFlower\FirstTask\obj\Debug\net6.0\FirstTask.AssemblyInfoInputs.cache
+C:\Flowers\NewFlower\FirstTask\obj\Debug\net6.0\FirstTask.AssemblyInfo.cs
+C:\Flowers\NewFlower\FirstTask\obj\Debug\net6.0\FirstTask.csproj.CoreCompileInputs.cache
+C:\Flowers\NewFlower\FirstTask\obj\Debug\net6.0\FirstTask.dll
+C:\Flowers\NewFlower\FirstTask\obj\Debug\net6.0\refint\FirstTask.dll
+C:\Flowers\NewFlower\FirstTask\obj\Debug\net6.0\FirstTask.pdb
+C:\Flowers\NewFlower\FirstTask\obj\Debug\net6.0\FirstTask.genruntimeconfig.cache
+C:\Flowers\NewFlower\FirstTask\obj\Debug\net6.0\ref\FirstTask.dll
